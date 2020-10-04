@@ -3,108 +3,279 @@
         "promoData": [
             {
               "id": 1,
-              "linkClass": "single-promo color-1 bg-hover hover-bottom text-center p-5",
-              "title": "trend design",
-              "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-              "text_2": "ex eligendi magni sit impedit iusto, sed ad fuga minima, dignissimos ducimus autem molestias, nostrum nesciunt enim? Ea, non hic voluptates dolorum impedit eveniet dolorem temporibus illo incidunt quis minima facere doloribus sit maiores, blanditiis labore quasi, accusantium quaerat!",
-              "text_span": "Aspernatur provident unde"
+              "iconClass": "fas fa-fire-alt",
+              "title": "Free Trail",
+              "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, ipsum."
             },
             {
               "id": 2,
-              "linkClass": "single-promo color-2 bg-hover active hover-bottom text-center p-5",
-              "title": "Keyword ranking",
-              "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur provident unde ex eligendi magni sit impedit iusto, sed ad fuga minima,",
-              "text_2": "molestias, nostrum nesciunt enim? Ea, non hic voluptates dolorum impedit eveniet dolorem temporibus illo incidunt quis minima facere doloribus sit maiores, blanditiis labore quasi, accusantium quaerat!",
-              "text_span": "dignissimos ducimus autem"
+              "iconClass": "fas fa-fill-drip",
+              "title": "Easy to use",
+              "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, ipsum."
             },
             {
               "id": 3,
-              "linkClass": "single-promo color-3 bg-hover hover-bottom text-center p-5",
-              "title": "Social media",
-              "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur provident unde ex eligendi magni sit impedit iusto, sed ad fuga minima, dignissimos ducimus autem molestias, nostrum nesciunt enim? Ea, non hic voluptates",
-              "text_2": "illo incidunt quis minima facere doloribus sit maiores, blanditiis labore quasi, accusantium quaerat!",
-              "text_span": "dolorum impedit eveniet dolorem temporibus"
-            }
-        ],
-        "promoData_1": [
+              "iconClass": "fas fa-edit",
+              "title": "Customizable Code",
+              "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, ipsum."
+            },
+        ]
+    },
+    "themeOneServiceSection": {
+        "heading": "Make your Android or IOS device",
+        "heading_span": "to manage everything",
+        "btnText": "Learn More",
+        "serviceThumb": "/img/service_thumb.png",
+        "serviceData": [
             {
               "id": 1,
-              "listClass": "single-promo grad-hover text-center p-5",
-              "title": "Zero to Hero",
-              "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-              "text_2": "ex eligendi magni sit impedit iusto, sed ad fuga minima, dignissimos ducimus autem molestias, nostrum nesciunt enim? Ea, non hic voluptates dolorum impedit eveniet dolorem temporibus illo incidunt quis minima facere doloribus sit maiores, blanditiis labore quasi, accusantium quaerat!",
-              "text_span": "Aspernatur provident unde"
+              "text": "Fully layered dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
             },
             {
               "id": 2,
-              "listClass": "single-promo grad-hover active text-center p-5",
-              "title": "Dedicated Support",
-              "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur provident unde ex eligendi magni sit impedit iusto, sed ad fuga minima,",
-              "text_2": "molestias, nostrum nesciunt enim? Ea, non hic voluptates dolorum impedit eveniet dolorem temporibus illo incidunt quis minima facere doloribus sit maiores, blanditiis labore quasi, accusantium quaerat!",
-              "text_span": "dignissimos ducimus autem"
+              "text": "Marketing chart dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
             },
             {
               "id": 3,
-              "listClass": "single-promo grad-hover text-center p-5",
-              "title": "100% Up-time",
-              "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur provident unde ex eligendi magni sit impedit iusto, sed ad fuga minima, dignissimos ducimus autem molestias, nostrum nesciunt enim? Ea, non hic voluptates",
-              "text_2": "illo incidunt quis minima facere doloribus sit maiores, blanditiis labore quasi, accusantium quaerat!",
-              "text_span": "dolorum impedit eveniet dolorem temporibus"
+              "text": "Customizable design dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+            },
+            {
+              "id": 4,
+              "text": "Email management dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores."
+            },
+            {
+              "id": 5,
+              "text": "Social marketing dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis."
             }
         ]
     },
-    "themeOneContentSection": {
-        "heading": "We help to grow your business.",
-        "heading_1": "Work smarter,",
-        "heading_1_span": "not harder.",
+    "themeOneDiscoverSection": {
+        "heading": "Super clean user interface",
+        "heading_span": "Lfor easier use",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique dolor ut iusto vitae autem neque eum ipsam, impedit asperiores vel cumque laborum dicta repellendus inventore voluptatibus et explicabo nobis unde.",
+        "discoverThumb": "/img/discover_thumb.png",
+        "discoverData": [
+            {
+              "id": 1,
+              "iconClass": "fas fa-bullhorn"
+            },
+            {
+              "id": 2,
+              "iconClass": "fas fa-comments"
+            },
+            {
+              "id": 3,
+              "iconClass": "fas fa-bell"
+            },
+            {
+              "id": 4,
+              "iconClass": "fas fa-chart-pie"
+            }
+        ]
+    },
+    "themeOneFeaturesSection": {
+        "heading": "Work faster with powerful tools",
+        "btnText": "Watch in action",
+        "featureThumb_1": "/img/feature_thumb_1.png",
+        "featureThumb_2": "/img/feature_thumb_2.png",
+        "featureData": [
+            {
+              "id": 1,
+              "text": "Fully layered dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+            },
+            {
+              "id": 2,
+              "text": "Marketing chart dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+            },
+            {
+              "id": 3,
+              "text": "Customizable design dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+            }
+        ]
+    },
+    "themeOnePricingSection": {
+        "heading": "Unlock Full Power Of Apolo",
         "headingText_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
         "headingText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
-        "contentThumb": "/img/content_thumb.png",
-        "profileIcon_1": "/img/profile_icon_1.svg",
-        "profileIcon_2": "/img/profile_icon_2.svg",
-        "profileIcon_3": "/img/profile_icon_3.svg",
-        "profileIcon_4": "/img/profile_icon_4.svg",
-        "folderImg": "/img/folders.png",
-        "folderImg_1": "/img/folders_2.png",
-        "btnText": "Learn More",
-        "contentData": [
+        "btnText": "Not sure what to choose?",
+        "btnText_1": "Contact Us",
+        "pricingData": [
             {
               "id": 1,
-              "iconClass": "fas fa-angle-double-right",
-              "title": "Online Presence",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+              "colClass": "col-12 col-sm-6",
+              "image": "/img/startup.png",
+              "title": "Starter",
+              "price": "$29",
+              "price_after": "/month",
+              "li_1": "5GB Linux Web Space",
+              "li_2": "5 MySQL Databases",
+              "li_3": "24/7 Tech Support",
+              "li_4": "Daily Backups",
+              "btnText": "Select Plan"
             },
             {
               "id": 2,
-              "iconClass": "fas fa-angle-double-right",
-              "title": "Marketing Stretagy",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+              "colClass": "col-12 col-sm-6 mt-4 mt-sm-0",
+              "image": "/img/pro.png",
+              "title": "Pro",
+              "price": "$99",
+              "price_after": "/month",
+              "li_1": "100GB Linux Web Space",
+              "li_2": "Unlimited Databases",
+              "li_3": "24/7 Tech Support",
+              "li_4": "Daily Backups",
+              "btnText": "Select Plan"
+            }
+        ]
+    },
+    "themeOneTeamSection": {
+        "heading": "Our Team Experts",
+        "headingText_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "headingText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "teamData": [
+            {
+              "id": 1,
+              "image": "/img/team_thumb_1.jpg",
+              "name": "Junaid Hasan",
+              "post": "Founder & CEO"
+            },
+            {
+              "id": 2,
+              "image": "/img/team_thumb_2.jpg",
+              "name": "Jassica William",
+              "post": "Co-Founder"
             },
             {
               "id": 3,
-              "iconClass": "fas fa-angle-double-right",
-              "title": "Promote Local Sales",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+              "image": "/img/team_thumb_3.jpg",
+              "name": "Md. Arham",
+              "post": "Web Developer"
+            },
+            {
+              "id": 4,
+              "image": "/img/team_thumb_4.jpg",
+              "name": "Yasmin Akter",
+              "post": "Graphic Designer"
             }
         ],
-        "contentData_1": [
+        "iconList": [
             {
               "id": 1,
-              "iconClass": "fas fa-angle-double-right",
-              "title": "Digital Agency & Marketing",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+              "iconClass": "fab fa-facebook-f"
             },
             {
               "id": 2,
-              "iconClass": "fas fa-angle-double-right",
-              "title": "Planning To Startup",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+              "iconClass": "fab fa-twitter"
             },
             {
               "id": 3,
-              "iconClass": "fas fa-angle-double-right",
-              "title": "Content Management",
-              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+              "iconClass": "fab fa-google-plus-g"
+            },
+            {
+              "id": 4,
+              "iconClass": "fab fa-linkedin-in"
+            }
+        ]
+    },
+    "themeOneContactSection": {
+        "heading": "Stay Tuned",
+        "headingText_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "headingText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "btnText": "Send Message",
+        "contactData": [
+            {
+              "id": 1,
+              "iconClass": "fas fa-home",
+              "text": "Vestibulum nulla libero, convallis, tincidunt suscipit diam, DC 2002"
+            },
+            {
+              "id": 2,
+              "iconClass": "fas fa-phone-alt",
+              "text": "+1 230 456 789-012 345 6789"
+            },
+            {
+              "id": 3,
+              "iconClass": "fas fa-envelope",
+              "text": "exampledomain@domain.com"
+            }
+        ]
+    },
+    "themeOneFooterSection": {
+        "footerTitle_1": "Useful Links",
+        "footerTitle_2": "Product Help",
+        "footerTitle_3": "Download",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.",
+        "footerList_1": [
+            {
+                "id": 1,
+                "text": "Home"
+            },
+            {
+                "id": 2,
+                "text": "About Us"
+            },
+            {
+                "id": 3,
+                "text": "Services"
+            },
+            {
+                "id": 4,
+                "text": "Blog"
+            },
+            {
+                "id": 5,
+                "text": "Contact"
+            }
+        ],
+        "footerList_2": [
+            {
+                "id": 1,
+                "text": "FAQ"
+            },
+            {
+                "id": 2,
+                "text": "Privacy Policy"
+            },
+            {
+                "id": 3,
+                "text": "Support"
+            },
+            {
+                "id": 4,
+                "text": "Terms & Conditions"
+            },
+            {
+                "id": 5,
+                "text": "Contact"
+            }
+        ],
+        "footerList_3": [
+            {
+                "id": 1,
+                "image": "/img/google_play_black.png"
+            },
+            {
+                "id": 2,
+                "image": "/img/app_store_black.png"
+            }
+        ],
+        "iconList": [
+            {
+                "id": 1,
+                "iconClass": "fab fa-facebook"
+            },
+            {
+                "id": 2,
+                "iconClass": "fab fa-twitter"
+            },
+            {
+                "id": 3,
+                "iconClass": "fab fa-google-plus-g"
+            },
+            {
+                "id": 4,
+                "iconClass": "fab fa-vine"
             }
         ]
     }
